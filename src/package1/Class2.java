@@ -6,6 +6,8 @@ public class Class2 {
 		System.out.println("Class 2");
 		System.out.println("code update1 X");
 		System.out.println("code update2 X");
+		System.out.println("code update1 X, added new branch develop");
+		System.out.println("code update2 X, branch develop");
 	}
 
 }

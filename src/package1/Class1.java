@@ -5,6 +5,9 @@ public class Class1 {
 		System.out.println("Hello");
 		System.out.println("code update1 Y");
 		System.out.println("code update2 Y");
+		System.out.println("code update1 X");
+		System.out.println("code update2 X");
+		System.out.println("code update3 X");
 	}
 
 }

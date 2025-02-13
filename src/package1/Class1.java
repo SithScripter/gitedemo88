@@ -3,6 +3,8 @@ package package1;
 public class Class1 {
 	public static void main(String[] args) {
 		System.out.println("Hello");
+		System.out.println("code update1 Y");
+		System.out.println("code update2 Y");
 	}
 
 }

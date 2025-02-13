@@ -10,6 +10,8 @@ public class Class1 {
 		System.out.println("code update3 X");
 		System.out.println("code update1 Y, added new branch develop");
 		System.out.println("code update Y, added new branch develop");
+		
+		System.out.println("code updated by X, in new branch develop");
 	}
 
 }
